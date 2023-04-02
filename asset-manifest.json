@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arbolbs/static/css/main.4395319c.css",
+    "main.js": "/arbolbs/static/js/main.3ac5496e.js",
+    "static/js/787.394e779d.chunk.js": "/arbolbs/static/js/787.394e779d.chunk.js",
+    "index.html": "/arbolbs/index.html",
+    "main.4395319c.css.map": "/arbolbs/static/css/main.4395319c.css.map",
+    "main.3ac5496e.js.map": "/arbolbs/static/js/main.3ac5496e.js.map",
+    "787.394e779d.chunk.js.map": "/arbolbs/static/js/787.394e779d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4395319c.css",
+    "static/js/main.3ac5496e.js"
+  ]
+}
